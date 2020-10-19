@@ -73,7 +73,7 @@ def start
    elsif choice == "right"
      gamer_room
    else
-     dead("you sit in the room untill you starve.")
+     dead("you sit in the room untill you starve!")
    end
  end
 
