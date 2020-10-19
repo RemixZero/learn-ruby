@@ -1,0 +1,18 @@
+things that i learned from code yo
+
+puts "yo"     this is a puts statement all it does is print text in a ruby file
+cars = 100    this just makes cars = to 100. so if i did 100 + cars it would be 200
+# comment    yes this is just a comment
+#{age}   this just does this age = 100 then i do: puts "my age is #{age}" it would print 100 there
+hilarious = false   this is a true or false statement
+puts formatter % {first: 1, second: 2, third: 3, fourth: 4}
+puts tabby_cat this prints what tabby_cat is = to
+age = gets.chomp  this gets an input from the user. you would type like 287931238123872137813897890312879387913172839 nad it would save age as that
+gets.chomp.to_f another gets chomp so like befor it gets the input
+first, second, third = ARGV    ARGV in program is a place where you can input a filename or just say aduiodaolsduasiod it asks you for an input
+txt = open(filename) txt_agian.close() this opens and closes files. so i would open a text file and then close it.
+line2 = $stdin.gets.chomp  this gets a keyboard input like befor
+\n   this makes a new line
+def & end   this defines a varible to use later on
+amount_of_cheese = 10*2 the amount of cheese is = to THIS SUPER HARD PROBLEM
+MULTIPLYING #{a} * #{b}" this mutiplies whatever a is to whatever b is
